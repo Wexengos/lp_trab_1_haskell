@@ -1,0 +1,1 @@
+Para executar o programa, com o cabal instalado (ghcup install cabal) executar "cabal run Trab-lp" na pasta raiz do projeto.

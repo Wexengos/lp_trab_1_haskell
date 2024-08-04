@@ -97,7 +97,6 @@ jogadaComputador dados dificuldade = do
                 putStrLn "Computador rotacionou um dado."
                 jogar (take escolha dados ++ [rotacionarDado dadoEscolhido] ++ drop (escolha + 1) dados) dificuldade True
     else do 
-        putStrLn "Modo difícil não implementado."
         if verificarEstrategia dados
             then do
                 putStrLn "Computador removeu um dado."
