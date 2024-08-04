@@ -1,3 +1,6 @@
+-- AUTORES
+-- Marcos Mateus Oliveira dos Santos – 201835019
+-- Giovane Nilmer de Oliveira Santos – 201835012
 
 import System.Random (randomRIO)
 

@@ -1,1 +1,5 @@
+-- AUTORES
+-- Marcos Mateus Oliveira dos Santos – 201835019
+-- Giovane Nilmer de Oliveira Santos – 201835012
+
 Para executar o programa, com o cabal instalado (ghcup install cabal) executar "cabal run Trab-lp" na pasta raiz do projeto.

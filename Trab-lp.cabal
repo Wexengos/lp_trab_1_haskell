@@ -1,3 +1,7 @@
+-- AUTORES
+-- Marcos Mateus Oliveira dos Santos – 201835019
+-- Giovane Nilmer de Oliveira Santos – 201835012
+
 cabal-version:      3.0
 -- The cabal-version field refers to the version of the .cabal specification,
 -- and can be different from the cabal-install (the tool) version and the
